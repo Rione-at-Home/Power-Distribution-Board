@@ -6729,7 +6729,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x18_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "7725e232-0eb5-4ad0-af88-5177387705c9")
-		(at 34.935 26.945)
+		(at 53.55 110.99)
 		(descr "Through hole straight socket strip, 1x18, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x18 2.54mm single row")
 		(property "Reference" "J7"
@@ -14036,6 +14036,7 @@
 		(property "Reference" "L2"
 			(at 44.0775 -13.945 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "f1e9551d-2490-428f-940b-9bb234d79171")
 			(effects
 				(font
@@ -14856,6 +14857,7 @@
 		(property "Reference" "CIN1"
 			(at 46.5775 -12.945 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "874c2048-a1fa-47f6-a310-5f7e3484074b")
 			(effects
 				(font
@@ -17305,7 +17307,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x18_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "f44dbc85-e7b4-4a85-90b1-27668890a3ef")
-		(at 30.345 26.945)
+		(at 48.96 110.99)
 		(descr "Through hole straight socket strip, 1x18, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x18 2.54mm single row")
 		(property "Reference" "J6"
